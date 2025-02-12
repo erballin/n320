@@ -1,0 +1,19 @@
+{
+  "name": "create-erin-app",
+  "version": "0.0.0",
+  "description": "Create an erin app!",
+  "main": "index.js",
+  "bin": {
+    "create-erin-app": "index.js"
+  },
+  "files": [
+    "index.js",
+    "readme.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
