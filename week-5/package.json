@@ -1,0 +1,17 @@
+{
+  "name": "week-5",
+  "version": "1.0.0",
+  "description": "week-5 classwork and assignmnet",
+  "main": "server.js",
+  "scripts": {
+    " dev": "nodemon server.js",
+    "start": "node server.js",
+    "promises": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
